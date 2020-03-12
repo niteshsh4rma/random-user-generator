@@ -7,4 +7,4 @@ Have a visit: https://drive.google.com/open?id=1HC9LWTs0wWp7k7ACFvYzh9GL22dpv2XU
 
 Requirements
 
-Android API Level 28
+Android API Level 28 Above
